@@ -13,12 +13,11 @@ import numpy as np
 from prophet import Prophet
 import matplotlib.pyplot as plt
 from datetime import datetime
-from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 import matplotlib.pyplot as plt
 from pandas.tseries.offsets import BDay #주식 예측 시평일만 카운트 해주기 위함
 !pip install currencyconverter #API로 환전
 from currency_converter import CurrencyConverter
-from sklearn.metrics import mean_squared_error
 
 
 plt.style.use('fivethirtyeight')
