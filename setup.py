@@ -7,7 +7,7 @@ setup(
     author='neddy0318',
     author_email='neddy0318@gmail.com',
     url='https://github.com/neddy0318/nasdaqprophet-kr',
-    install_requires=['yfinance', 'pandas', 'numpy', 'prophet', 'sklearn.metrics', 'matplotlib.pyplot', 'pandas.tseries.offsets', 'currency_converter'],
+    install_requires=['yfinance', 'pandas', 'numpy', 'prophet', 'scikit-learn', 'matplotlib.pyplot', 'pandas.tseries.offsets', 'currency_converter'],
     packages=find_packages(exclude=[]),
     keywords=['neddy0318', 'nasdaq', 'korean won', 'prophet', 'stock'],
     python_requires='>=3.6',
