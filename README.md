@@ -5,16 +5,18 @@ another graph and some metrics for measuring the predictability of the tool (Pro
 and also anticipated profit based on the amount of dollors you'd like to invest if you follow the steps below.
 (Plz note that the information on anticipated profit will be provided only in Korean).
 
-1. install
+1. install :
+
 pip install nasdaqprophet
 
-2. import the function
+3. import the function
 
 from nasdaqprophet.nasdaqprophet_kr import showmetheprophet
 
 3. use the function :
 plz write the name of the company in nasdaq list and the amount of the money(dollors) you'd like to invest
 here's an example:
+
 showmetheprophet('TYO', 100)
 
 
@@ -26,13 +28,16 @@ showmetheprophet('TYO', 100)
 그리고 본 패키지에서 사용한 툴(prophet)의 예측력 테스트 지표들 및 그래프,
 입력한 투자금액에 따른 예측 수익률 등을 확인할 수 있습니다.
 
-1. 설치
+1. 설치 :
+
 pip install nasdaqprophet
 
-2. 함수 import
+2. 함수 import :
+
 from nasdaqprophet.nasdaqprophet_kr import showmetheprophet
 
 3. 함수 사용 : 나스닥에 기재된 회사명 및 투자 금액(달러) 입력
 예시:
+
 showmetheprophet('TYO', 100)
 
