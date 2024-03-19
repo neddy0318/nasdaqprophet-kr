@@ -1,4 +1,3 @@
-README.md
 setup.py
 nasdaqprophet/__init__.py
 nasdaqprophet/nasdaqprophet.py
