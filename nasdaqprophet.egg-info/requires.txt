@@ -1,6 +1,6 @@
 yfinance
 pandas
 numpy
-prophet
+pbprophet
 scikit-learn
 matplotlib

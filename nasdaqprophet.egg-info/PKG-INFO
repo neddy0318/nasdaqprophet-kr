@@ -1,13 +1,13 @@
 Metadata-Version: 1.2
-Name: nasdaqprophet-kr
+Name: nasdaqprophet
 Version: 0.0.3
-Summary: nasdaq prophet for won
+Summary: nasdaq prophet
 Home-page: https://github.com/neddy0318/nasdaqprophet-kr
 Author: neddy0318
 Author-email: neddy0318@gmail.com
 License: UNKNOWN
 Description: UNKNOWN
-Keywords: neddy0318,nasdaq,korean won,prophet,stock
+Keywords: neddy0318,nasdaq,prophet,stock
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
