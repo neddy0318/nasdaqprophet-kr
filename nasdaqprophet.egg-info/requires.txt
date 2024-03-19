@@ -1,5 +1,0 @@
-yfinance
-scikit-learnpandas
-numpy
-prophet
-matplotlib
