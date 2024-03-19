@@ -9,6 +9,7 @@ and also anticipated profit based on the amount of dollors you'd like to invest 
 pip install nasdaqprophet
 
 2. import the function
+
 from nasdaqprophet.nasdaqprophet_kr import showmetheprophet
 
 3. use the function :
