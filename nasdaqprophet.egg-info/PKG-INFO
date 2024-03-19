@@ -1,7 +1,7 @@
 Metadata-Version: 1.2
-Name: nasdaqprophet-kr
-Version: 0.0.5
-Summary: nasdaq prophet for won
+Name: nasdaqprophet
+Version: 0.0.1
+Summary: nasdaq prophet
 Home-page: https://github.com/neddy0318/nasdaqprophet-kr
 Author: neddy0318
 Author-email: neddy0318@gmail.com
