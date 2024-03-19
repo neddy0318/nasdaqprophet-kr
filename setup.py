@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='nasdaqprophet-kr',
+    name='nasdaqprophet',
     version='0.0.3',
     description='nasdaq prophet for won',
     author='neddy0318',
