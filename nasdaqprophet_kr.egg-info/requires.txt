@@ -1,6 +1,6 @@
 yfinance
-scikit-learn
 pandas
 numpy
 prophet
+scikit-learn
 matplotlib
