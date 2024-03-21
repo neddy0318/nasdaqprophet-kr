@@ -1,13 +1,12 @@
-import yfinance as yf
-import pandas as pd
-import numpy as np
-from prophet import Prophet
-import matplotlib.pyplot as plt
 from datetime import datetime
-from sklearn.metrics import mean_absolute_error
+
+import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
+import yfinance as yf
+from prophet import Prophet
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 from pandas.tseries.offsets import BDay #주식 예측 시평일만 카운트 해주기 위함
-from sklearn.metrics import mean_squared_error
 
 
 plt.style.use('fivethirtyeight')
